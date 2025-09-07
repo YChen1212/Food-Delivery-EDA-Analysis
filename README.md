@@ -8,7 +8,7 @@
 ## 使用資料  
 資料來源: Kaggle  
 資料集名稱: Bank Customer Churn Prediction Dataset  
-資料集網址: https://www.kaggle.com/datasets/saurabhbadole/bank-customer-churn-prediction-dataset/data
+資料集網址: https://www.kaggle.com/datasets/saurabhbadole/bank-customer-churn-prediction-dataset/data  
 說明: 原始檔案為 food_orders.csv，包含顧客、餐點、價格、訂單時間等欄位資訊。本專案僅使用部分欄位並進行清理與轉換，以利後續分析與建模。    
 
 
